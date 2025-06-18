@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "KAQq8b3P05/E/vhtQwo2VJfktS2kD1qsYoiuXscYU9c=",
+  "Source": "Room_App",
+  "BasePath": "_content/Room_App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Room_App\\wwwroot",
+      "Source": "Room_App",
+      "ContentRoot": "E:\\PAA\\Room_App\\Room_App\\wwwroot\\",
+      "BasePath": "_content/Room_App",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

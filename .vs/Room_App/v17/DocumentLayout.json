@@ -1,0 +1,612 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PAA\\Room_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|e:\\paa\\room_app\\room_app\\models\\photousage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\models\\photousage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\services\\photousageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\services\\photousageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\controllers\\photousagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\controllers\\photousagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\controllers\\facilitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\controllers\\facilitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\dtos\\admindtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\dtos\\admindtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\services\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\services\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\controllers\\adminbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\controllers\\adminbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\dtos\\createbookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\dtos\\createbookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\services\\iphotousageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\services\\iphotousageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\services\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\services\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\models\\updateprofilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\models\\updateprofilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\models\\roomwithfacilitiesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\models\\roomwithfacilitiesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\models\\roomupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\models\\roomupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\models\\roomcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\models\\roomcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\models\\roomfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\models\\roomfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\models\\facilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\models\\facilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\room_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\room_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\migrations\\20250610105001_initialcreatenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\migrations\\20250610105001_initialcreatenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\room_app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\room_app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|E:\\PAA\\Room_App\\room_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C79DD4-D291-4D54-A644-AC3B6E8D43FB}|Room_App\\Room_App.csproj|solutionrelative:room_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhotoUsage.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Models\\PhotoUsage.cs",
+              "RelativeDocumentMoniker": "Room_App\\Models\\PhotoUsage.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Models\\PhotoUsage.cs",
+              "RelativeToolTip": "Room_App\\Models\\PhotoUsage.cs",
+              "ViewState": "AQIAAAkAAAAAZmZmZmYwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:16:03.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminDTOs.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\DTOs\\AdminDTOs.cs",
+              "RelativeDocumentMoniker": "Room_App\\DTOs\\AdminDTOs.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\DTOs\\AdminDTOs.cs*",
+              "RelativeToolTip": "Room_App\\DTOs\\AdminDTOs.cs*",
+              "ViewState": "AQIAABcAAAAANjMzMzMgwIQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:54:17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminBookingController.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Controllers\\AdminBookingController.cs",
+              "RelativeDocumentMoniker": "Room_App\\Controllers\\AdminBookingController.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Controllers\\AdminBookingController.cs*",
+              "RelativeToolTip": "Room_App\\Controllers\\AdminBookingController.cs*",
+              "ViewState": "AQIAAEcAAAAAzszMzGwwwPcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:51:51.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoomCreateDTO.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Models\\RoomCreateDTO.cs",
+              "RelativeDocumentMoniker": "Room_App\\Models\\RoomCreateDTO.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Models\\RoomCreateDTO.cs",
+              "RelativeToolTip": "Room_App\\Models\\RoomCreateDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:37:01.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250610105001_InitialCreateNew.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Migrations\\20250610105001_InitialCreateNew.cs",
+              "RelativeDocumentMoniker": "Room_App\\Migrations\\20250610105001_InitialCreateNew.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Migrations\\20250610105001_InitialCreateNew.cs",
+              "RelativeToolTip": "Room_App\\Migrations\\20250610105001_InitialCreateNew.cs",
+              "ViewState": "AQIAABAAAADAm5mZmVkvwFQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:50:15.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateProfileRequest.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Models\\UpdateProfileRequest.cs",
+              "RelativeDocumentMoniker": "Room_App\\Models\\UpdateProfileRequest.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Models\\UpdateProfileRequest.cs",
+              "RelativeToolTip": "Room_App\\Models\\UpdateProfileRequest.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:32:27.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhotoUsageService.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Services\\PhotoUsageService.cs",
+              "RelativeDocumentMoniker": "Room_App\\Services\\PhotoUsageService.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Services\\PhotoUsageService.cs",
+              "RelativeToolTip": "Room_App\\Services\\PhotoUsageService.cs",
+              "ViewState": "AQIAAAcAAABAAAAAAAAkwDgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:23:09.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPhotoUsageService.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Services\\IPhotoUsageService.cs",
+              "RelativeDocumentMoniker": "Room_App\\Services\\IPhotoUsageService.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Services\\IPhotoUsageService.cs",
+              "RelativeToolTip": "Room_App\\Services\\IPhotoUsageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:21:31.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Services\\IBookingService.cs",
+              "RelativeDocumentMoniker": "Room_App\\Services\\IBookingService.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Services\\IBookingService.cs*",
+              "RelativeToolTip": "Room_App\\Services\\IBookingService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:21:17.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "Room_App\\Services\\BookingService.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Services\\BookingService.cs*",
+              "RelativeToolTip": "Room_App\\Services\\BookingService.cs*",
+              "ViewState": "AQIAAHkBAAAAu8zMzMwSwI4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:20:54.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FacilityDTO.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Models\\FacilityDTO.cs",
+              "RelativeDocumentMoniker": "Room_App\\Models\\FacilityDTO.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Models\\FacilityDTO.cs",
+              "RelativeToolTip": "Room_App\\Models\\FacilityDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:18:58.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Facility.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Models\\Facility.cs",
+              "RelativeDocumentMoniker": "Room_App\\Models\\Facility.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Models\\Facility.cs",
+              "RelativeToolTip": "Room_App\\Models\\Facility.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAywBUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:18:37.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateBookingRequest.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\DTOs\\CreateBookingRequest.cs",
+              "RelativeDocumentMoniker": "Room_App\\DTOs\\CreateBookingRequest.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\DTOs\\CreateBookingRequest.cs",
+              "RelativeToolTip": "Room_App\\DTOs\\CreateBookingRequest.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA7wDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:17:29.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Room_App\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Data\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "Room_App\\Data\\ApplicationDbContext.cs*",
+              "ViewState": "AQIAAFoAAAAA0MzMzEwswNMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:10:41.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhotoUsageController.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Controllers\\PhotoUsageController.cs",
+              "RelativeDocumentMoniker": "Room_App\\Controllers\\PhotoUsageController.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Controllers\\PhotoUsageController.cs",
+              "RelativeToolTip": "Room_App\\Controllers\\PhotoUsageController.cs",
+              "ViewState": "AQIAADYAAABQAQAAAAAwwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:15:50.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Services\\IRoomService.cs",
+              "RelativeDocumentMoniker": "Room_App\\Services\\IRoomService.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Services\\IRoomService.cs",
+              "RelativeToolTip": "Room_App\\Services\\IRoomService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:00:10.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "Room_App\\Services\\RoomService.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Services\\RoomService.cs",
+              "RelativeToolTip": "Room_App\\Services\\RoomService.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAFoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:59:48.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Room_App\\Services\\UserService.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Services\\UserService.cs",
+              "RelativeToolTip": "Room_App\\Services\\UserService.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAUwMgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T04:36:37.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Room_App\\Services\\IUserService.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Services\\IUserService.cs",
+              "RelativeToolTip": "Room_App\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:56:25.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Room_App\\Controllers\\BookingController.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Room_App\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAAgCAAAAAAAAAACQvRQCAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T04:26:50.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Room_App\\Properties\\Resources.Designer.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Room_App\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T04:46:41.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Room_App.csproj",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Room_App.csproj",
+              "RelativeDocumentMoniker": "Room_App\\Room_App.csproj",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Room_App.csproj",
+              "RelativeToolTip": "Room_App\\Room_App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-08T04:36:03.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Room_App\\Properties\\Resources.resx",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Properties\\Resources.resx",
+              "RelativeToolTip": "Room_App\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-08T04:45:38.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\appsettings.json",
+              "RelativeDocumentMoniker": "Room_App\\appsettings.json",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\appsettings.json",
+              "RelativeToolTip": "Room_App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T19:31:15.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Room_App",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Room_App.csproj",
+              "RelativeDocumentMoniker": "Room_App\\Room_App.csproj",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Room_App.csproj",
+              "RelativeToolTip": "Room_App\\Room_App.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T18:48:56.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacilitiesController.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Controllers\\FacilitiesController.cs",
+              "RelativeDocumentMoniker": "Room_App\\Controllers\\FacilitiesController.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Controllers\\FacilitiesController.cs",
+              "RelativeToolTip": "Room_App\\Controllers\\FacilitiesController.cs",
+              "ViewState": "AQIAAFYAAADAzMzMzMwkwJEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:32:32.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Room_App\\Models\\Booking.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Models\\Booking.cs",
+              "RelativeToolTip": "Room_App\\Models\\Booking.cs",
+              "ViewState": "AQIAADoAAACAyszMzMwPwFIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:31:41.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Room_App\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Room_App\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAABQPRQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T12:02:04.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Program.cs",
+              "RelativeDocumentMoniker": "Room_App\\Program.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Program.cs",
+              "RelativeToolTip": "Room_App\\Program.cs",
+              "ViewState": "AQIAAE8BAADA//////8gwFoBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T06:11:18.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoomUpdateDTO.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Models\\RoomUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Room_App\\Models\\RoomUpdateDTO.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Models\\RoomUpdateDTO.cs",
+              "RelativeToolTip": "Room_App\\Models\\RoomUpdateDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA7wBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:39:58.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoomFacility.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Models\\RoomFacility.cs",
+              "RelativeDocumentMoniker": "Room_App\\Models\\RoomFacility.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Models\\RoomFacility.cs",
+              "RelativeToolTip": "Room_App\\Models\\RoomFacility.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvx0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:38:01.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoomWithFacilitiesDTO.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Models\\RoomWithFacilitiesDTO.cs",
+              "RelativeDocumentMoniker": "Room_App\\Models\\RoomWithFacilitiesDTO.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Models\\RoomWithFacilitiesDTO.cs",
+              "RelativeToolTip": "Room_App\\Models\\RoomWithFacilitiesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:37:59.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Room.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Room_App\\Models\\Room.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Models\\Room.cs",
+              "RelativeToolTip": "Room_App\\Models\\Room.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAQwGMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:37:45.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Room_App\\Controllers\\RoomController.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Room_App\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAAIgAAAC0xczMzMwYwEAAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:36:57.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\PAA\\Room_App\\Room_App\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Room_App\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\PAA\\Room_App\\Room_App\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Room_App\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAALAAAAAAPGVmZmYcwDsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:58:28.58Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 72,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
