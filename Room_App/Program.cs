@@ -13,7 +13,11 @@ using Microsoft.AspNetCore.Http.Features;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
+builder.WebHost.ConfigureKestrel(serverOptions =>
+{
+    // Dengarkan di semua IP dan port 80 (port standar HTTP di Railway / Docker)
+    serverOptions.ListenAnyIP(80); // gunakan HTTP tanpa HTTPS
+});
 
 // Add services to the container
 builder.Services.AddControllers()
