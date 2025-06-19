@@ -201,6 +201,7 @@ using Room_App.Services;
 using System;
 using System.Text;
 using System.Threading.Tasks;
+using Room_App.Utility;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -313,6 +314,16 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
+
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    var context = services.GetRequiredService<ApplicationDbContext>();
+
+    await context.Database.MigrateAsync();
+
+    await DataHelper.ManageDataAsync(scope.ServiceProvider);
+}
 
 // Configure the HTTP request pipeline
 if (app.Environment.IsDevelopment())
