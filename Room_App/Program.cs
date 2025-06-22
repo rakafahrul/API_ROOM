@@ -21,26 +21,25 @@ using Room_App.Utility;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// RAILWAY CONFIGURATION: Configure Kestrel untuk Railway
-builder.WebHost.ConfigureKestrel(serverOptions => 
+// RAILWAY CONFIGURATION: Simplified untuk Railway
+if (builder.Environment.IsProduction())
 {
-    // Railway menggunakan environment variable PORT
-    var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
-    
-    if (builder.Environment.IsProduction())
+    // Railway: Gunakan UseUrls saja untuk production
+    var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+    builder.WebHost.UseUrls($"http://*:{port}");
+    Console.WriteLine($"Railway: Configured to listen on port: {port}");
+}
+else
+{
+    // Development: Configure Kestrel
+    builder.WebHost.ConfigureKestrel(serverOptions => 
     {
-        // Production (Railway) - hanya HTTP
-        serverOptions.ListenAnyIP(int.Parse(port));
-    }
-    else
-    {
-        // Development - HTTP dan HTTPS
         serverOptions.ListenLocalhost(5228); // HTTP
         serverOptions.ListenLocalhost(7143, listenOptions => {
             listenOptions.UseHttps();
         });
-    }
-});
+    });
+}
 
 // RAILWAY: Configure forwarded headers untuk proxy
 if (!builder.Environment.IsDevelopment())
@@ -238,7 +237,18 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-// Health check endpoint untuk Railway
+// Health check endpoint dan root endpoint untuk Railway
+app.MapGet("/", () => new { 
+    message = "Room App API is running", 
+    status = "OK", 
+    timestamp = DateTime.UtcNow,
+    endpoints = new {
+        swagger = "/swagger",
+        health = "/health",
+        api = "/api"
+    }
+});
+
 app.MapGet("/health", () => new { status = "OK", timestamp = DateTime.UtcNow });
 
 try
